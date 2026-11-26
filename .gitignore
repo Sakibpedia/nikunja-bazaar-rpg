@@ -1,0 +1,9 @@
+.godot/
+.import/
+build/
+*.tmp
+*.log
+__pycache__/
+.DS_Store
+export_credentials.cfg
+tools/test/out/
